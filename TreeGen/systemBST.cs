@@ -8,6 +8,8 @@ namespace TreeGen
 {
     public class systemBST
     {
+        //Constructed By Tyler Stewart And Must Only Be Used For Education Demonstration
         private static void Main(string[] args) => BST.RunProgram();
+      
     }
 }
