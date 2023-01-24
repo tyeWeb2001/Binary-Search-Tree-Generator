@@ -869,7 +869,6 @@ namespace TreeGen
 
                 switch (menuInput.ToUpper())
                 {
-
                     case "1":
                         Console.WriteLine("Generating Fixed BST...");
                         Console.WriteLine(menuInput);
@@ -940,7 +939,6 @@ namespace TreeGen
 
 
         }
-
 
         public static void RunProgram()
         {
